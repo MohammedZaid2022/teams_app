@@ -1,0 +1,28 @@
+{
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.17/MicrosoftTeams.schema.json",
+    "version": "1.0.0",
+    "manifestVersion": "1.17",
+    "id": "b63a8de8-cba5-4602-8968-8d1d4b3ec1ef",
+    "name": {
+      "short": "Testing App",
+      "full": "Test Application"
+    },
+    "developer": {
+      "name": "ZeroZilla",
+      "mpnId": "",
+      "websiteUrl": "https://teams-app-pi.vercel.app",
+      "privacyUrl": "https://teams-app-pi.vercel.app/privacy",
+      "termsOfUseUrl": "https://teams-app-pi.vercel.app/terms"
+    },
+    "description": {
+      "short": "This is a test application for Microsoft Teams.",
+      "full": "A simple test application for Teams, displaying a home page with basic details, Privacy Policy, and Terms of Use."
+    },
+    "icons": {
+      "outline": "outline.png",
+      "color": "color.png"
+    },
+    "accentColor": "#FFFFFF",
+    "validDomains": ["teams-app-pi.vercel.app"]
+  }
+  
